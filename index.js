@@ -19,16 +19,13 @@
 
 // · Verilmiş obyekt: {ad: 'Ali', yaş: 25, şəhər: 'Bakı'} – bu obyektin bütün açarlarını konsola yazdırın.
 // const man={
-//   ad:'Ali',
-//   yaş: 25,
-//   şəhər: 'Baki'
-// };
-// let text='';
-// for (let x in man){
-//   text+=man[x]+' '
+//     ad:'Ali',
+//     yaş: 25,
+//     şəhər: 'Baki'
+//   };
+// for (let i in man){
+//     console.log(i);
 // }
-// console.log(text);
-
 
 // · Verilmiş obyekt: {kitab: '1984', müəllif: 'George Orwell'} – açar və dəyərləri konsola yazdırın.for of
 // const obj={kitab: '1984', müəllif: 'George Orwell'};
